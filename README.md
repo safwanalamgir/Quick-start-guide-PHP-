@@ -1,7 +1,7 @@
 # Quick-start-guide-PHP-
 
 M M Safwan Alamgir 
-       Bsc in cse
+       (Bsc in cse)
        
     Personal File
        
